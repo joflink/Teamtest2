@@ -7,6 +7,7 @@ def skrivutnamn(namn):
 skrivutnamn("Jocke")
 skrivutnamn("Adam")
 skrivutnamn("Loke")
+skrivutnamn("Greger")
 
 
 print("Hello World")
