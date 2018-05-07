@@ -5,6 +5,7 @@ def skrivutnamn(namn):
 
 
 skrivutnamn("Jocke")
+skrivutnamn("Adam")
 skrivutnamn("Loke")
 
 
