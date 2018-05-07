@@ -8,6 +8,6 @@ skrivutnamn("Loke")
 skrivutnamn("Toke")
 skrivutnamn("Voke")
 skrivutnamn("Toke")
-skrivutnamn("Voke")
+skrivutnamn("Zeke")
 
 print("Hello World")
